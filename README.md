@@ -40,6 +40,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud logo" title="Google Cloud" />
   </a>
   <img width="12" />
+  <a href="https://www.microsoft.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg" height="30" alt="Microsoft logo" title="Microsoft" />
+  </a>
+  <img width="12" />
   <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="Windows logo" title="Windows" />
   </a>
@@ -52,10 +56,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo" title="VS Code" />
   </a>
   <img width="12" />
-  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass logo" title="Sass" />
-  </a>
-  <img width="12" />
   <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS logo" title="AWS" />
   </a>
@@ -64,6 +64,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo" title="HTML5" />
   </a>
 </div>
+
 
 
 ###
