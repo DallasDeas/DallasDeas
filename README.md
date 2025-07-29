@@ -5,8 +5,13 @@
     <a href="https://github.com/DallasDeas/BI-projects-" target="_blank" rel="noopener noreferrer">
       Data Analysis Projects
     </a>
+    &nbsp;|&nbsp;
+    <a href="https://github.com/DallasDeas/Cyber-lab" target="_blank" rel="noopener noreferrer">
+      Cyber Lab Projects
+    </a>
   </h3>
 </div>
+
 
 <h2 align="center">
   I’m Dallas Deas, a <strong>Finance and Accounting graduate</strong> from Young Harris College (May 2025) and former <strong>NCAA Division II baseball scholarship athlete</strong> who is passionate about becoming a <strong>cybersecurity professional</strong>. My portfolio includes hands‑on projects such as <strong>SOC alert automation, an Active Directory audit toolkit, and a beginner‑friendly SSH honeypot</strong>, as well as <strong>interactive Power BI dashboards and advanced Excel models</strong> for forecasting and strategic decision‑making. I excel at collaborating with teams and empowering organizations to make strategic, data‑driven decisions.
