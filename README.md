@@ -3,7 +3,7 @@
 <div align="center">
   <h3>
     <a href="https://github.com/DallasDeas/BI-projects-" target="_blank" rel="noopener noreferrer">
-      Data Analysis
+      Data Analysis Projects
     </a>
   </h3>
 </div>
