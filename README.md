@@ -38,39 +38,45 @@
 
 ###
 
-<div align="left">
-<a href="https://mail.google.com/mail/u/?authuser=dallasjdeas03%40gmail.com#inbox" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="60" alt="Gmail logo" />
-</a>
+<div align="center">
+  <a href="https://mail.google.com/mail/u/?authuser=dallasjdeas03%40gmail.com#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="60" alt="Gmail logo" />
   </a>
   <a href="https://www.linkedin.com/in/dallas-deas-0b5978302/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="60" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="60" alt="LinkedIn logo" />
   </a>
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/DallasDeas/DallasDeas/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
 
 ## Skills
 
 | **Cybersecurity Skills** | **Data Analytics Skills** |
-| --- | --- |
+| :---: | :---: |
 | - **SIEM & Alert Automation**<br>- **Windows Security & Active Directory**<br>- **Honeypot Deployment & Analysis**<br>- **Network Security Fundamentals**<br>- **Log Management** | - **Microsoft Power Platform**<br>- **SQL**<br>- **Excel**<br>- **Visualization** |
 
+</div>
+
+<div align="center">
+
 ## 🎓 Education
+
 ### Young Harris College  
 📍 **Bachelor’s in Finance & Accounting** | *May 2025*  
 📌 **Minor:** *Management*  
 
 **Relevant Coursework:**  
-- *Database & Information Systems*
-- *Business Intelligence & Visualization*
-- *Programming in Python*
-- *Data Analytics & Decision-Making*
+*Database & Information Systems*  
+*Business Intelligence & Visualization*  
+ *Programming in Python*  
+*Data Analytics & Decision-Making*  
 
 ## Contact
-- *Email*: DallasJDeas03@gmail.com
-- *Moblie Phone*: (770) 652-5896
-- *[LinkedIn](https://www.linkedin.com/in/dallas-deas-0b5978302/)*
+
+ **Email**: [DallasJDeas03@gmail.com](mailto:DallasJDeas03@gmail.com)  
+**Mobile**: (770) 652‑5896  
+**LinkedIn**: [linkedin.com/in/dallas-deas-0b5978302](https://www.linkedin.com/in/dallas-deas-0b5978302/)  
+
+</div>
+
+
