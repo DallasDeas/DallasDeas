@@ -51,7 +51,7 @@
 
 <div align="center">
 
-## Skills
+## 🧰 Skills
 
 | **Cybersecurity Skills** | **Data Analytics Skills** |
 | :---: | :---: |
@@ -73,7 +73,7 @@
  *Programming in Python*  
 *Data Analytics & Decision-Making*  
 
-## Contact
+## 📇 Contact
 
  **Email**: [DallasJDeas03@gmail.com](mailto:DallasJDeas03@gmail.com)  
 **Mobile**: (770) 652‑5896  
