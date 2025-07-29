@@ -1,16 +1,20 @@
-## Hi there 👋
+# 💼 Dallas Deas - Welcome to my profile!
 
-<!--
-**DallasDeas/DallasDeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+I’m Dallas Deas, a ***Finance and Accounting graduate*** from Young Harris College (May 2025) and former ***NCAA Division II baseball scholarship athlete*** who is passionate about becoming a ***cybersecurity professional***. My portfolio includes hands‑on projects such as ***SOC alert automation, an Active Directory audit toolkit, and a beginner‑friendly SSH honeypot***, as well as ***interactive Power BI dashboards and advanced Excel models*** for forecasting and strategic decision‑making. I excel at collaborating with teams and empowering organizations to make strategic, data‑driven decisions.
 
-Here are some ideas to get you started:
+## 🎓 Education
+### Young Harris College  
+📍 **Bachelor’s in Finance & Accounting** | *May 2025*  
+📌 **Minor:** *Management*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Relevant Coursework:**  
+- *Database & Information Systems*
+- *Business Intelligence & Visualization*
+- *Programming in Python*
+- *Data Analytics & Decision-Making*
+
+## Contact
+- *Email*: DallasJDeas03@gmail.com
+- *Moblie Phone*: (770) 652-5896
+- *[LinkedIn](https://www.linkedin.com/in/dallas-deas-0b5978302/)*
