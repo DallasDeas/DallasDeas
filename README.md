@@ -3,15 +3,7 @@
 ### [[Data Analysis]](https://github.com/DallasDeas/BI-projects-)
 <br clear="both">
 
-<h2 align="center">I’m Dallas Deas, a Finance and Accounting graduate from Young Harris College (May 2025) and former NCAA Division II baseball scholarship athlete who is passionate about becoming a cybersecurity professional. My portfolio includes hands‑on projects such as SOC alert automation, an Active Directory audit toolkit, and a beginner‑friendly SSH honeypot, as well as interactive Power BI dashboards and advanced Excel models for forecasting and strategic decision‑making. I excel at collaborating with teams and empowering organizations to make strategic, data‑driven decisions.</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DallasDeas&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<h2 align="center">I’m Dallas Deas, a ***Finance and Accounting graduate*** from Young Harris College (May 2025) and former ***NCAA Division II baseball scholarship athlete*** who is passionate about becoming a ***cybersecurity professional***. My portfolio includes hands‑on projects such as ***SOC alert automation, an Active Directory audit toolkit, and a beginner‑friendly SSH honeypot***, as well as ***interactive Power BI dashboards and advanced Excel models*** for forecasting and strategic decision‑making. I excel at collaborating with teams and empowering organizations to make strategic, data‑driven decisions.</h2>
 
 ###
 
@@ -42,7 +34,7 @@
 ###
 
 <div align="left">
-  <a href="DallasJDeas03@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/?authuser=dallasjdeas03%40gmail.com#inbox" target="_blank"></a>
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/dallas-deas-0b5978302/" target="_blank">
@@ -52,23 +44,18 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/DallasDeas/DallasDeas/output/snake.svg" alt="Snake animation" />
 
 ###
 
-##  Skills
-- **SIEM & Alert Automation**
-- **Windows Security & Active Directory**
-- **Honeypot Deployment & Analysis**
-- **Network Security Fundamentals**
-- **Log Management**
+## Skills
 
-- **Microsoft Power Platform**
-- **SQL**
-- **Excel**
-- **Visualization**
+| **Cybersecurity Skills** | **Data Analytics Skills** |
+| --- | --- |
+| - **SIEM & Alert Automation**<br>- **Windows Security & Active Directory**<br>- **Honeypot Deployment & Analysis**<br>- **Network Security Fundamentals**<br>- **Log Management** | - **Microsoft Power Platform**<br>- **SQL**<br>- **Excel**<br>- **Visualization** |
+
+
+
 
 ## 🎓 Education
 ### Young Harris College  
