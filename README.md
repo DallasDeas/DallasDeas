@@ -107,7 +107,7 @@ My portfolio highlights an in-progress segmented <strong>Home Lab</strong> with 
 
  **Email**: [DallasJDeas03@gmail.com](mailto:DallasJDeas03@gmail.com)  
 **Mobile**: (770) 652‑5896  
-**LinkedIn**: [linkedin.com/in/dallas-deas-0b5978302](https://www.linkedin.com/in/dallas-deas-0b5978302/)  
+**LinkedIn**: [linkedin.com/in/dallas-deas-0b5978302](https://www.linkedin.com/in/dallas-deas)  
 
 </div>
 
