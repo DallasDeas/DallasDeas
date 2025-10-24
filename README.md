@@ -85,7 +85,7 @@ My portfolio highlights an in-progress segmented <strong>Home Lab</strong> with 
 
 | **Cybersecurity Skills** | **Data Analytics Skills** |
 | :---: | :---: |
-| - **SIEM & Alert Automation**<br>- **Windows Security & Active Directory**<br>- **Honeypot Deployment & Analysis**<br>- **Network Security Fundamentals**<br>- **Log Management** | - **Microsoft Power Platform**<br>- **SQL**<br>- **Excel**<br>- **Visualization** |
+| - **SIEM & Alert Automation**<br>- **Windows Security & Active Directory**<br>- **Network Security Fundamentals**<br>- **Log Management** | - **Microsoft Power Platform**<br>- **SQL**<br>- **Excel**<br>- **Visualization** |
 
 </div>
 
