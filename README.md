@@ -35,7 +35,11 @@ I’m interested in **IT support, junior networking, infrastructure support, and
 
 ## Background
 
-B.S. in Finance and Accounting, with a focus in Business Analytics and a minor in Management — **Young Harris College, May 2025**. Former NCAA Division II baseball scholarship athlete.
+My path into IT began with a business background. I earned a B.S. in Finance and Accounting, with a concentration in Business Analytics and a minor in Management, from Young Harris College while competing as an NCAA Division II baseball scholarship athlete. Through my work, I became increasingly interested in the infrastructure behind business operations: how systems communicate, how access is controlled, and how technical problems affect the people who depend on those systems.
+
+At **The Tax Corner**, I supported Windows endpoints, troubleshot connectivity and authentication issues, administered tax software, maintained updates, and developed an encrypted backup process for sensitive client data. At **Piana Technologies**, my Manufacturing Staff Accountant role also included ERP administration, employee application support, IT asset tracking, and business-process automation. Those experiences helped me recognize that I wanted technology to become the main focus of my career.
+
+While working full time, I earned **CCNA, CompTIA Security+, and Microsoft Azure Fundamentals**, then continued developing my skills through Cisco networking, Windows Server, Active Directory, Azure, and Entra ID labs. I now serve in the **Army National Guard as an Officer Candidate**, pursuing the Signal Corps. My immediate focus is IT support, networking, and systems operations, with a long-term goal of growing into security engineering focused on networks, identity, and cloud infrastructure.
 
 ---
 
