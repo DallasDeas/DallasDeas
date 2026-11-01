@@ -15,9 +15,9 @@ I’m interested in **IT support, junior networking, infrastructure support, and
 | Project | What I practiced |
 | --- | --- |
 | [Infrastructure Monitoring & Incident Investigation](https://github.com/DallasDeas/enterprise-infrastructure-monitoring-lab) | Zabbix monitoring across Windows Server and Ubuntu, automated Gmail alerts, Windows event analysis, and recovery validation. |
-| [Cisco Enterprise Network](https://dallasdeas.github.io/projects/network/) | VLANs, OSPF, DHCP, NAT/PAT, and EtherChannel in Packet Tracer. |
-| [Active Directory Home Lab](https://dallasdeas.github.io/projects/active-directory/) | Windows Server, domain joins, users, Group Policy, and shared folders. |
-| [Azure Identity & Governance](https://dallasdeas.github.io/projects/azure/) | Microsoft Entra ID, role-based access, resource groups, and cost monitoring. |
+| [Cisco Enterprise Network](https://github.com/DallasDeas/dallasdeas.github.io/tree/main/projects/network) | VLANs, OSPF, DHCP, NAT/PAT, and EtherChannel in Packet Tracer. |
+| [Active Directory Home Lab](https://github.com/DallasDeas/Cyber-lab/tree/main/Active-Directory-Lab) | Windows Server, domain joins, users, Group Policy, and shared folders. |
+| [Azure Identity & Governance](https://github.com/DallasDeas/dallasdeas.github.io/tree/main/projects/azure) | Microsoft Entra ID, role-based access, resource groups, and cost monitoring. |
 
 ## Tools & technologies
 
