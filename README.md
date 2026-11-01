@@ -1,9 +1,8 @@
 <div align="center">
-  <h1>Hey, I'm Dallas 👋</h1>
+  <h1>Dallas Deas</h1>
   <p><strong>IT Support &amp; Infrastructure | Networking, Windows &amp; Azure</strong></p>
   <p>Atlanta, Georgia · Cisco CCNA · CompTIA Security+ · Microsoft AZ-900</p>
-  <p><em>I like knowing why it broke, how to fix it, and how to catch it next time.</em></p>
-  <p><a href="https://dallasdeas.github.io/"><strong>Explore my portfolio ↗</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dallas-deas">Connect on LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:dallasjdeas03@gmail.com">Email me</a></p>
+  <p><a href="https://dallasdeas.github.io/"><strong>Explore my portfolio</strong></a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dallas-deas">Connect on LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="mailto:dallasjdeas03@gmail.com">Email me</a></p>
 </div>
 
 ---
@@ -14,9 +13,9 @@ I'm an IT support professional building deeper skills in networking, systems adm
 
 My projects follow that curiosity into the infrastructure. I build the environment, check how the pieces depend on each other, and document what happens when something stops working. A missing mapped drive, a failed domain join, or a monitoring interruption gives me something concrete to investigate.
 
-📍 **I'm interested in IT support, network support, infrastructure support, and systems operations roles.** Long term, I'm working toward cloud and network engineering.
+**I'm interested in IT support, network support, infrastructure support, and systems operations roles.** Long term, I'm working toward cloud and network engineering.
 
-## 🔎 Start here: monitoring meets troubleshooting
+## Featured project
 
 ### [Infrastructure Monitoring & Incident Investigation](https://github.com/DallasDeas/enterprise-infrastructure-monitoring-lab)
 
@@ -24,9 +23,9 @@ I connected Windows Server and Ubuntu to Zabbix, configured automated Gmail aler
 
 **Inside:** architecture, setup, alerting evidence, incident timelines, troubleshooting, and recovery checks.
 
-[Explore the investigation →](https://github.com/DallasDeas/enterprise-infrastructure-monitoring-lab)
+[Read the investigation](https://github.com/DallasDeas/enterprise-infrastructure-monitoring-lab)
 
-## 🛠️ More from my workbench
+## Selected labs
 
 | Project | What I worked through |
 | --- | --- |
